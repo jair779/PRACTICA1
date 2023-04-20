@@ -1,0 +1,11 @@
+E:\trabajos de jair\SIS2420b\Ejercicio_6\Ejercicio_6\bin\Debug\Ejercicio_6.exe.config
+E:\trabajos de jair\SIS2420b\Ejercicio_6\Ejercicio_6\bin\Debug\Ejercicio_6.exe
+E:\trabajos de jair\SIS2420b\Ejercicio_6\Ejercicio_6\bin\Debug\Ejercicio_6.pdb
+E:\trabajos de jair\SIS2420b\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.csproj.AssemblyReference.cache
+E:\trabajos de jair\SIS2420b\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.csproj.SuggestedBindingRedirects.cache
+E:\trabajos de jair\SIS2420b\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.Frm.resources
+E:\trabajos de jair\SIS2420b\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.Properties.Resources.resources
+E:\trabajos de jair\SIS2420b\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.csproj.GenerateResource.cache
+E:\trabajos de jair\SIS2420b\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.csproj.CoreCompileInputs.cache
+E:\trabajos de jair\SIS2420b\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.exe
+E:\trabajos de jair\SIS2420b\Ejercicio_6\Ejercicio_6\obj\Debug\Ejercicio_6.pdb

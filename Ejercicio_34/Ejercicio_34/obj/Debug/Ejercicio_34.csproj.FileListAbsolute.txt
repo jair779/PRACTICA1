@@ -1,0 +1,8 @@
+E:\trabajos de jair\SIS2420b\Ejercicio_34\Ejercicio_34\bin\Debug\Ejercicio_34.exe.config
+E:\trabajos de jair\SIS2420b\Ejercicio_34\Ejercicio_34\bin\Debug\Ejercicio_34.exe
+E:\trabajos de jair\SIS2420b\Ejercicio_34\Ejercicio_34\bin\Debug\Ejercicio_34.pdb
+E:\trabajos de jair\SIS2420b\Ejercicio_34\Ejercicio_34\obj\Debug\Ejercicio_34.csproj.AssemblyReference.cache
+E:\trabajos de jair\SIS2420b\Ejercicio_34\Ejercicio_34\obj\Debug\Ejercicio_34.csproj.SuggestedBindingRedirects.cache
+E:\trabajos de jair\SIS2420b\Ejercicio_34\Ejercicio_34\obj\Debug\Ejercicio_34.csproj.CoreCompileInputs.cache
+E:\trabajos de jair\SIS2420b\Ejercicio_34\Ejercicio_34\obj\Debug\Ejercicio_34.exe
+E:\trabajos de jair\SIS2420b\Ejercicio_34\Ejercicio_34\obj\Debug\Ejercicio_34.pdb
